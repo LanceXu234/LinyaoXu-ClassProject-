@@ -1,2 +1,2 @@
 # LinyaoXu-ClassProject-
-Project Blog Showcase Website
+Project Blog Showcase Website(Non-Academic)
